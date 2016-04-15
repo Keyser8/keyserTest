@@ -1,0 +1,38 @@
+*.py[cod]
+
+# C extensions
+*.so
+
+# Packages
+*.egg
+*.egg-info
+dist
+build
+eggs
+parts
+sdist
+develop-eggs
+.installed.cfg
+__pycache__
+
+# Translations
+*.mo
+
+# Mr Developer
+.mr.developer.cfg
+.project
+.pydevproject
+.ropeproject
+
+# VIM
+*.swp
+
+# PACKAGING
+build/*
+
+# System
+.DS_Store
+
+# PHPstorm
+.idea/
+.idea/*
